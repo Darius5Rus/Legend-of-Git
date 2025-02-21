@@ -1,3 +1,0 @@
-"Legend of Git". Este es un juego de aventuras y misterio en el que el protagonista utiliza sus habilidades de control 
-de versiones para salvar el mundo digital. El proyecto se gestiona en GitHub y deberás trabajar en diferentes ramas para desarrollar nuevas funcionalidades, 
-integrar mejoras y mantener la historia del juego.
